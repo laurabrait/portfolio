@@ -49,7 +49,7 @@ body {
 .projetos {
   display: flex;
   flex-direction: column;
-  background: linear-gradient(230.65deg, #dbdbdb 27.49%, #dbdbdb 83.19%); linear-gradient(236.85deg, black 5%, #dbdbdb 95%);
+  background: linear-gradient(236.85deg, black 5%, #dbdbdb 95%);
   margin-top: 32px;
   padding: 32px;
   box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
